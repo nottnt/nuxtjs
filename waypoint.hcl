@@ -36,7 +36,7 @@ variable "region" {
   description = "AWS Region"
 }
 variable "repository" {
-  default     = "nuxt-js"
+  default     = "nuxt-js-with-waypoint"
   type        = string
   description = "AWS ECR Repository Name"
 }
